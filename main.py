@@ -68,10 +68,5 @@ def each_turn(n):
     print(f"Computer:{c_count}")
     print("\n\n")
 
-        
-
-
-
-
 if __name__ == '__main__':
     main()
